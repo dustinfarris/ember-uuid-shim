@@ -8,7 +8,7 @@ Use [uuid](https://github.com/kelektiv/node-uuid) in your Ember project.
 ## Installation
 
 ```
-ember install ember-node-uuid-shim
+ember install ember-uuid-shim
 ```
 
 
